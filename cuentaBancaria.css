@@ -1,0 +1,21 @@
+.h1{
+    font-size: 42px;
+  }
+  .h2{
+    font-size: 34px;
+  }
+  .h3{
+    font-size: 30px;
+  }
+  
+  .fecha{
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    color: #c8c8c8;
+  }
+  .ingreso{
+    color:#00C83C;
+  }
+  .salida{
+    color:#FF0000;
+  }
